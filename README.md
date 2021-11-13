@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on absolutely everything.
 - 📫 How to reach me: businesscontact@nephistoaiprojects.com
 - I work on various different projects: Message processing, self learning programs; tracking cookie protection for Windows; exploits for old windows versions
+- Fun Fact: I am able to write in various different languages, including Scratch 2;), but I mostly use Python and C++. Python>Java
