@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NephistoBuildsAI
+- 👀 I’m interested in AI-based interaction programs and cyber security.
+- 🌱 I’m currently learning nothing, because there is nothing left for me to learn.
+- 💞️ I’m looking to collaborate on absolutely everything.
+- 📫 How to reach me: businesscontact@nephistoaiprojects.com
+- I work on various different projects: Message processing, self learning programs; tracking cookie protection for Windows; exploits for old windows versions
